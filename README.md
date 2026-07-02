@@ -1,9 +1,8 @@
-# 🎥 YouTube Chatbot
+<h2># 🎥 YouTube Chatbot</h2>
 
 An intelligent Generative AI-powered YouTube Chatbot that allows users to interact with any YouTube video using natural language. The application extracts the video's English transcript, converts it into vector embeddings, stores them in FAISS, and uses Retrieval-Augmented Generation (RAG) to provide accurate, context-aware responses.
 Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transcript API, Embeddings, and FAISS.
 
-**🚀 Features**
 <h2>🚀 Features</h2>
 
 1. Retrieve English transcripts from YouTube videos
@@ -16,7 +15,8 @@ Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transc
 8. Semantic document retrieval with embeddings
 9. Accurate answers based only on the video transcript
 
-#[🏗️ System Architecture]
+<h2>🏗️ System Architecture</h2>
+  
                 YouTube Video URL / Video ID
                            │
                            ▼
@@ -45,7 +45,7 @@ Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transc
                   Streamlit User Interface
 
 
-**💡 How It Works**
+<h2>💡 How It Works</h2>
 1. Enter a YouTube Video URL or Video ID.
 2. The application retrieves the English transcript.
 3. The transcript is split into smaller chunks.
@@ -56,7 +56,8 @@ Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transc
 8. Retrieved context is passed to the LLM (Gemini/OpenAI).
 9. The chatbot generates an accurate context-based response.
 
-**📷 Application Workflow**
+<h2>📷 Application Workflow</h2>
+
 Input YouTube URL
         │
         ▼
@@ -83,7 +84,7 @@ LLM (Gemini/OpenAI)
         ▼
 Generated Response
 
-**🎯 Example Questions**
+<h2>🎯 Example Question</h2>
 1. Summarize this video.
 2. What are the key points discussed?
 3. Explain the main concept in simple terms.
@@ -94,16 +95,16 @@ Generated Response
 8. List the important topics covered.
 9. Generate revision notes.
 
-**🤝 Contributing**
+<h2>🤝 Contributing</h2>
 
 Contributions are welcome!
 
-**📄 License**
+<h2>📄 License</h2>
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it in accordance with the license terms.
 
-**👨‍💻 Author**
+<h2>👨‍💻 Author</h2>
 
-Darshan T V
+**Darshan T V**
 
 AI/ML Engineer | Generative AI Developer
