@@ -4,6 +4,8 @@ An intelligent Generative AI-powered YouTube Chatbot that allows users to intera
 Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transcript API, Embeddings, and FAISS.
 
 **🚀 Features**
+<h2>🚀 Features</h2>
+
 1. Retrieve English transcripts from YouTube videos
 2. Ask questions about video content
 3. Generate concise or detailed summaries
