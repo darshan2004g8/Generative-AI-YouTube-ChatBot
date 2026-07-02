@@ -58,31 +58,32 @@ Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transc
 
 <h2>📷 Application Workflow</h2>
 
-Input YouTube URL
-        │
-        ▼
-Retrieve Transcript
-        │
-        ▼
-Chunk Transcript
-        │
-        ▼
-Generate Embeddings
-        │
-        ▼
-Store in FAISS
-        │
-        ▼
-User Question
-        │
-        ▼
-Semantic Retrieval
-        │
-        ▼
-LLM (Gemini/OpenAI)
-        │
-        ▼
-Generated Response
+        Input YouTube URL
+                │
+                ▼
+        Retrieve Transcript
+                │
+                ▼
+        Chunk Transcript
+                │
+                ▼
+        Generate Embeddings
+                │
+                ▼
+        Store in FAISS
+                │
+                ▼
+        User Question
+                │
+                ▼
+        Semantic Retrieval
+                │
+                ▼
+        LLM (Gemini/OpenAI)
+                │
+                ▼
+        Generated Response
+
 
 <h2>🎯 Example Question</h2>
 1. Summarize this video.
