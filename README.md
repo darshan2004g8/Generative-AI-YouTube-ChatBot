@@ -4,17 +4,17 @@ An intelligent Generative AI-powered YouTube Chatbot that allows users to intera
 Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transcript API, Embeddings, and FAISS.
 
 **🚀 Features**
-📺 Retrieve English transcripts from YouTube videos
-💬 Ask questions about video content
-📝 Generate concise or detailed summaries
-🎯 Context-aware answers using Retrieval-Augmented Generation (RAG)
-⚡ Fast semantic search using FAISS Vector Store
-🤖 Supports both Google Gemini API and OpenAI API
-🌐 Simple and interactive Streamlit web interface
-📚 Semantic document retrieval with embeddings
-🔍 Accurate answers based only on the video transcript
+1. Retrieve English transcripts from YouTube videos
+2. Ask questions about video content
+3. Generate concise or detailed summaries
+4. Context-aware answers using Retrieval-Augmented Generation (RAG)
+5. Fast semantic search using FAISS Vector Store
+6. Supports both Google Gemini API and OpenAI API
+7. Simple and interactive Streamlit web interface
+8. Semantic document retrieval with embeddings
+9. Accurate answers based only on the video transcript
 
-#[**🏗️ System Architecture**]
+#[🏗️ System Architecture]
                 YouTube Video URL / Video ID
                            │
                            ▼
