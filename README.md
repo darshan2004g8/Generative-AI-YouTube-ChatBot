@@ -108,4 +108,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 **Darshan T V**
 
-AI/ML Engineer | Generative AI Engineer
+AI Engineer | Generative AI Engineer
